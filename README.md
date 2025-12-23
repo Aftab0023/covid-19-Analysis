@@ -108,13 +108,13 @@ This plot shows the daily new COVID-19 cases for selected countries, enabling di
 
 Example: India, US, and Brazil daily case trends
 
-![Daily Cases Comparison](screenshots/daily_cases_comparison.png)
+![Daily Cases Comparison](screenshots/Daily COVID-19 Cases Comparison.png)
 
 📈 7-Day Rolling Average Trend
 
 This visualization applies a 7-day rolling average to smooth daily fluctuations and highlight the actual trend of COVID-19 spread.
 
-![Rolling Average Trend]((screenshots/7_day_rolling_average.png)
+![Rolling Average Trend](screenshots/7_day_rolling_average.png)
 
 🔝 Peak Detection Visualization
 
