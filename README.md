@@ -101,6 +101,37 @@ The goal is to understand how COVID-19 spread evolved over time across different
 
 ---
 
+📸 Output Screenshots
+📊 Daily COVID-19 Cases Comparison
+
+This plot shows the daily new COVID-19 cases for selected countries, enabling direct comparison of infection trends over time.
+
+Example: India, US, and Brazil daily case trends
+
+![Daily Cases Comparison](<img width="1000" height="500" alt="Daily COVID-19 Cases Comparison" src="https://github.com/user-attachments/assets/1e13aba8-604e-49e1-889d-25496715869d" />
+)
+
+📈 7-Day Rolling Average Trend
+
+This visualization applies a 7-day rolling average to smooth daily fluctuations and highlight the actual trend of COVID-19 spread.
+
+![Rolling Average Trend](<img width="1000" height="500" alt="7-Day Rolling Average of COVID-19 Cases" src="https://github.com/user-attachments/assets/820987d1-f6b2-44ad-8d27-2ee7e7a73815" />
+)
+
+🔝 Peak Detection Visualization
+
+This output highlights the peak infection period for each country based on the highest number of daily new cases.
+
+![Peak Detection](<img width="270" height="222" alt="image" src="https://github.com/user-attachments/assets/20459007-d510-439c-b70c-7aee9e848416" />
+)
+
+🧠 Trend-Based Reproduction Insight
+
+This output helps interpret whether COVID-19 spread was increasing or decreasing based on case trends.
+
+![Reproduction Insight](<img width="640" height="480" alt="rolling_average_trend" src="https://github.com/user-attachments/assets/33386612-827a-4fd2-b599-d4a066e380e1" />
+)
+
 ## 📈 Key Insights
 
 * Different countries experienced peaks at different times
