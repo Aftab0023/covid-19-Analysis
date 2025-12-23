@@ -108,7 +108,7 @@ This plot shows the daily new COVID-19 cases for selected countries, enabling di
 
 Example: India, US, and Brazil daily case trends
 
-![Daily Cases Comparison](screenshots/Daily COVID-19 Cases Comparison.png)
+![Daily Cases Comparison](screenshots/daily_cases_comparison.png)
 
 📈 7-Day Rolling Average Trend
 
